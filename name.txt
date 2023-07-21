@@ -1,0 +1,1 @@
+This is the second method to write the message with the help of python open fundtionHELLO I AM ERITEING THIS
